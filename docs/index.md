@@ -43,7 +43,7 @@ AWSからはKiro、GitHubからはSpec Kitも登場し、仕様駆動開発が�
 - MkDocs
     - Python
     - [uv](https://docs.astral.sh/uv/)
-    - [mkdocs-mermaid-to-image](https://pypi.org/project/mkdocs-mermaid-to-image/)
+    - [mkdocs-mermaid-to-svg](https://pypi.org/project/mkdocs-mermaid-to-svg/)
     - [mkdocs-svg-to-png](https://pypi.org/project/mkdocs-svg-to-png/)
     - [mkdocs-to-pdf](https://pypi.org/project/mkdocs-to-pdf/)
     - [mkdocs-table-reader-plugin](https://pypi.org/project/mkdocs-table-reader-plugin/)
