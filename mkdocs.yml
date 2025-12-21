@@ -26,8 +26,10 @@ markdown_extensions:
 
 plugins:
   - search
-  - mermaid-to-image:
-      # PDF生成時の互換性のためHTMLラベルを無効化
+  - mermaid-to-svg:
+      image_id_enabled: true
+      image_id_prefix: mermaid-diagram
+      # Disable HTML labels for PDF compatibility
       mermaid_config:
         htmlLabels: false
         flowchart:
